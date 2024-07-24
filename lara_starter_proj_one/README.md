@@ -30,7 +30,7 @@ A third key learning was that it can be helpful to use the developer options in 
 *list of dependencies (dan dev dependencies) and their versions*
 
 
-#SET THE NAME in pubspec.yaml as
+# SET THE NAME in pubspec.yaml as
 name: flutter_application_1
 
 dependencies:
